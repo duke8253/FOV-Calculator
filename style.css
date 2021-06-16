@@ -11,8 +11,12 @@ div {
 
 label {
   display: block;
-  margin: 1em 0 0.3em 0;
+  margin: 1.5em 0 0.3em 0;
   font-weight: bold;
+}
+
+input {
+  margin-top: 0.5em;
 }
 
 fieldset label:first-of-type {
